@@ -39,7 +39,7 @@ sorl-thumbnail==12.4a1
 surlex==0.2.0
 towel==0.9.0
 unicodecsv==0.14.1
-urllib3==1.19.1
+urllib3==1.24.2
 virtualenv==15.0.3
 waitress==1.0.1
 WebOb==1.7.0
